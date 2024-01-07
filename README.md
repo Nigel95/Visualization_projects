@@ -1,1 +1,1 @@
-# Ce projet a été fait sur PowerBi, il est tiré d'un un ensemble de données fictif appelé « Ventes_boisson.xlxs » qui contient des informations sur les commandes de boissons, les clients, les quantités achetées, les prix, etc
+# Ce projet a été fait sur PowerBi, il est tiré d'un ensemble de données fictif appelé « Ventes_boisson.xlxs » qui contient des informations sur les commandes de boissons, les clients, les quantités achetées, les prix, etc
